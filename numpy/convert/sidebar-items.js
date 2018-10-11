@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["NpyIndex","Types that can be used to index an array."],["ToNpyDims","Utility trait to specify the dimention of array"],["ToPyArray","Covversion trait from rust types to `PyArray`."]]});
